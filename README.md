@@ -1,1 +1,1 @@
-# sdxl
+# sdxl 2
