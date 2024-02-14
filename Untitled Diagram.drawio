@@ -1,9 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T13:50:21.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.4" etag="vYljOcoaKOUdivI79rIa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T14:02:08.084Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="DXm3VKdJZTC-JjvLYC7z" version="23.1.4" type="github">
   <diagram name="Page-1" id="uKQo0K0R_N17jFe_9M_S">
-    <mxGraphModel>
+    <mxGraphModel dx="1624" dy="1058" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AC7oQ6jAMYNAef2UAhRS-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3" y="-73" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7oQ6jAMYNAef2UAhRS-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AC7oQ6jAMYNAef2UAhRS-2" target="AC7oQ6jAMYNAef2UAhRS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7oQ6jAMYNAef2UAhRS-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AC7oQ6jAMYNAef2UAhRS-2" target="AC7oQ6jAMYNAef2UAhRS-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AC7oQ6jAMYNAef2UAhRS-2" value="dwsdsd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="184" y="150" width="72" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AC7oQ6jAMYNAef2UAhRS-5" value="Ghar se Nikalte hi" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="78" width="204" height="197" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
